@@ -1,0 +1,30 @@
+
+
+.textcolor{
+    color: #1877f2;;
+    font-weight: 900;
+    font-size: 60px;
+}
+.textcolor2{
+    font-size: 20px;
+    font-weight: bold;
+}
+.centertext{
+    text-align: center;
+    color: black;
+}
+
+.mybackground{
+    background-color: #f0f2f5;
+}
+
+.loginbox{
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.inputbox{
+    height: 20px;
+}
